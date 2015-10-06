@@ -1,0 +1,1 @@
+This will be the public official GitHub repository for the Arma 3 Exile Mod in the future.
